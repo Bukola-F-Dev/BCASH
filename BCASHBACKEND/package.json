@@ -1,5 +1,6 @@
 {
   "name": "bcashbackend",
+  "homepage":"https://bukola-f-dev.github.io/BCASH",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
